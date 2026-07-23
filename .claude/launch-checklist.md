@@ -5,7 +5,12 @@ GameMap build and a real production launch. Ordered by a blend of importance and
 complexity. Last verified against the codebase: 2026-07-23 (items 7, 8, 13 (redefined),
 14 (partial) implemented and verified live against the real Firebase project this
 session). 2026-07-24: security review + hosting/backend recommendation added to items
-1, 3, 9, 14 below (analysis only, no code changed yet).
+1, 3, 9, 14 below (analysis only, no code changed yet). Same day, later: #1's hosting
+plan actually implemented and verified live (git init, GitHub repo, Firebase Hosting,
+GitHub Actions auto-deploy on PR/merge-to-main, noindex + password-gated preview). #9
+(Stripe/Cloud Functions) explicitly deferred by the user — fixed only the dishonest
+"secure payments" copy in `PaymentFollowup`, left the mock payment flow otherwise
+untouched.
 
 Treat this as the living roadmap. Re-verify an item against the current code/Firebase
 state before assuming it's still accurate — this list decays as work lands. Update or
@@ -76,6 +81,18 @@ renumber items here as they complete; don't silently re-derive from scratch.
    pay → cancel option correctly gone).
 9. **Real payment processor** (Stripe via a Cloud Function) — `PaymentFollowup`
    currently just flips a status flag client-side; no money ever moves.
+   **Explicitly deferred (2026-07-24):** the user decided not to build Stripe/Cloud
+   Functions yet — real payment processing needs real purchases/business setup
+   (merchant account, bank details, etc.) that isn't ready. Until then, the app stays
+   fully mock/no-money, on purpose. Concretely done today: `PaymentFollowup`'s
+   `booking.securePaymentsNotice` copy (all 5 locales) was rewritten from the false
+   "Payments are secure and encrypted" to an honest "This is a demo checkout. No real
+   payment is taken." — the card-form visual itself was intentionally left as-is (kept
+   as a placeholder for the future real Stripe integration), only the misleading claim
+   was fixed. The Firestore-rules finding below is no longer an active "vulnerability"
+   in the urgent sense (there's no real money to steal), but **must be fixed before
+   any real payment processor is wired up** — do not launch real payments without
+   revisiting it first.
    **Security finding (2026-07-24):** this is worse than "no processor yet" — it's an
    active hole. `PaymentFollowup`'s card-number/CVV/expiry fields aren't wired to
    anything; the Pay button calls `payCurrent()` → `markRegistrationPaid()` → a plain

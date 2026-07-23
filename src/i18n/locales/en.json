@@ -370,7 +370,7 @@
     "platformFee": "Platform Fee",
     "total": "Total",
     "confirmAndPay": "Confirm & Pay {price}",
-    "securePaymentsNotice": "Payments are secure and encrypted.",
+    "securePaymentsNotice": "This is a demo checkout. No real payment is taken.",
     "cancelBooking": "Cancel booking"
   },
   "createGame": {

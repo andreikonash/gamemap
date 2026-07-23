@@ -316,7 +316,7 @@
     "platformFee": "Камісія платформы",
     "total": "Усяго",
     "confirmAndPay": "Пацвердзіць і аплаціць {price}",
-    "securePaymentsNotice": "Плацяжы бяспечныя і зашыфраваныя.",
+    "securePaymentsNotice": "Гэта дэма-аплата. Рэальнае спісанне не адбываецца.",
     "cancelBooking": "Скасаваць браніраванне"
   },
   "createGame": {

@@ -316,7 +316,7 @@
     "platformFee": "Комісія платформи",
     "total": "Всього",
     "confirmAndPay": "Підтвердити й оплатити {price}",
-    "securePaymentsNotice": "Платежі безпечні та зашифровані.",
+    "securePaymentsNotice": "Це демо-оплата. Реальне списання не відбувається.",
     "cancelBooking": "Скасувати бронювання"
   },
   "createGame": {

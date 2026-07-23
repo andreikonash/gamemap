@@ -316,7 +316,7 @@
     "platformFee": "Комиссия платформы",
     "total": "Всего",
     "confirmAndPay": "Подтвердить и оплатить {price}",
-    "securePaymentsNotice": "Платежи безопасны и зашифрованы.",
+    "securePaymentsNotice": "Это демо-оплата. Реальное списание не происходит.",
     "cancelBooking": "Отменить бронь"
   },
   "createGame": {

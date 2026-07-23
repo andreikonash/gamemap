@@ -316,7 +316,7 @@
     "platformFee": "Opłata platformy",
     "total": "Razem",
     "confirmAndPay": "Potwierdź i zapłać {price}",
-    "securePaymentsNotice": "Płatności są bezpieczne i szyfrowane.",
+    "securePaymentsNotice": "To płatność demonstracyjna. Nie pobieramy prawdziwej opłaty.",
     "cancelBooking": "Anuluj rezerwację"
   },
   "createGame": {
