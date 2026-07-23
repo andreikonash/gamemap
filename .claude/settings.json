@@ -1,0 +1,41 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash .claude/hooks/edit-check.sh",
+            "timeout": 120,
+            "statusMessage": "Running typecheck + lint..."
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "deny": [
+      "Read(.env)",
+      "Edit(.env)",
+      "Write(.env)",
+      "Read(.env.*)",
+      "Edit(.env.*)",
+      "Write(.env.*)",
+      "Bash(rm -rf *)"
+    ],
+    "allow": [
+      "Bash(pnpm lint *)",
+      "Bash(pnpm lint:file *)",
+      "Bash(pnpm test:file *)",
+      "Bash(pnpm typecheck *)",
+      "Bash(pnpm test:run)",
+      "Bash(pnpm test:unit)",
+      "Bash(pnpm test:integration *)",
+      "Bash(npm view *)",
+      "mcp__claude_ai_Figma",
+      "mcp__plugin_figma_figma",
+      "mcp__playwright"
+    ]
+  }
+}

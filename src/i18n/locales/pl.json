@@ -1,0 +1,646 @@
+{
+  "common": {
+    "brand": "GameMap",
+    "free": "Bezpłatnie",
+    "notSet": "Nie ustawiono",
+    "signIn": "Zaloguj się",
+    "signOut": "Wyloguj się",
+    "discover": "Odkrywaj",
+    "communities": "Społeczności",
+    "settings": "Ustawienia",
+    "browseGames": "Przeglądaj gry",
+    "readyToPlay": "Gotowy do gry?",
+    "date": "Data",
+    "time": "Godzina",
+    "players": "Gracze",
+    "description": "Opis",
+    "location": "Lokalizacja",
+    "cancel": "Anuluj",
+    "close": "Zamknij",
+    "save": "Zapisz",
+    "confirm": "Potwierdź",
+    "delete": "Usuń",
+    "back": "Wstecz",
+    "next": "Dalej",
+    "loading": "Ładowanie...",
+    "city": "Wrocław",
+    "priceValue": "{price} PLN",
+    "playersWord": "gracz | gracze | graczy"
+  },
+  "nav": {
+    "searchPlaceholder": "Szukaj miejsca lub sportu...",
+    "createGame": "Utwórz grę",
+    "notifications": "Powiadomienia",
+    "cabinet": "Panel",
+    "map": "Mapa",
+    "myGames": "Moje gry"
+  },
+  "footer": {
+    "terms": "Regulamin",
+    "privacy": "Prywatność",
+    "safety": "Bezpieczeństwo",
+    "support": "Wsparcie",
+    "comingSoon": "Strona „{page}” już wkrótce",
+    "copyright": "© 2026 GameMap. Podnieś poziom swojej gry."
+  },
+  "landing": {
+    "badge": "Platforma sportu ulicznego we Wrocławiu",
+    "heroTitlePart1": "Znajdź swoją",
+    "heroTitlePart2": "kolejną grę",
+    "heroTitlePart3": "w kilka sekund",
+    "heroDescription": "Odkrywaj gry w piłkę nożną, koszykówkę, siatkówkę i inne dyscypliny w pobliżu już dziś. Dołącz, zapłać, zagraj — bez grupowych czatów.",
+    "signUpFree": "Zarejestruj się za darmo",
+    "goToDashboard": "Przejdź do panelu",
+    "toggleNavigation": "Przełącz nawigację",
+    "nav": {
+      "features": "Funkcje",
+      "howItWorks": "Jak to działa",
+      "sports": "Sporty"
+    },
+    "mockCard": {
+      "nearbyGames": "Gry w pobliżu",
+      "open": "Otwarta",
+      "footballAlt": "Piłka nożna",
+      "footballTitle": "Piłka nożna 5v5 — Stare Miasto",
+      "footballTime": "Dziś · 20:00 · Rynek 14",
+      "basketballAlt": "Koszykówka",
+      "basketballTitle": "Koszykówka 3×3 — Nadodrze",
+      "basketballTime": "Jutro · 19:30 · Trzebnicka 12"
+    },
+    "lovedByPrefix": "Pokochało nas",
+    "lovedBySuffix": "graczy w całym Wrocławiu",
+    "rating": "4,8/5",
+    "featuresTitle": "Wszystko, czego potrzebujesz, by grać częściej",
+    "featuresSubtitle": "GameMap zajmuje się logistyką, dzięki czemu Ty możesz skupić się na grze.",
+    "features": {
+      "findNearby": {
+        "title": "Znajdź gry w pobliżu",
+        "description": "Przeglądaj mapę gier towarzyskich we Wrocławiu z filtrem sportu i statusu."
+      },
+      "joinInstantly": {
+        "title": "Dołącz od razu",
+        "description": "Zarezerwuj miejsce jednym dotknięciem. Bez grupowych czatów i czekania na odpowiedź."
+      },
+      "paySecurely": {
+        "title": "Płać bezpiecznie",
+        "description": "Płatność kartą lub portfelem cyfrowym, przejrzyste opłaty."
+      },
+      "trackStats": {
+        "title": "Śledź swoje statystyki",
+        "description": "Statystyki sezonu, historia i wiarygodność — wszystko w jednym miejscu."
+      }
+    },
+    "nightSection": {
+      "imgAlt": "Oświetlone boisko nocą",
+      "title": "Prawdziwe gry każdego wieczoru",
+      "description": "Od meczów 5 na 5 pod reflektorami po weekendowe turnieje — zawsze znajdzie się gra dla Ciebie."
+    },
+    "howItWorksTitle": "Jak to działa",
+    "howItWorksSubtitle": "Od wyszukiwania do pierwszego gwizdka w trzech prostych krokach.",
+    "steps": {
+      "discover": {
+        "title": "Znajdź grę",
+        "description": "Szukaj na mapie otwartych gier w pobliżu, w dogodnym dla Ciebie czasie."
+      },
+      "reserve": {
+        "title": "Zarezerwuj miejsce",
+        "description": "Dołącz jednym dotknięciem i zapłać, aby zapewnić sobie miejsce w składzie."
+      },
+      "showUp": {
+        "title": "Przyjdź i zagraj",
+        "description": "Poznaj innych graczy, rozgrzej się i ciesz się grą."
+      }
+    },
+    "stepNumber": "{n}. {title}",
+    "sportsTitle": "Graj w sport, który kochasz",
+    "sportsSubtitle": "Nowe gry pojawiają się we Wrocławiu każdego dnia.",
+    "finalCtaSubtitle": "Dołącz do GameMap i znajdź swoją kolejną grę już dziś.",
+    "stats": {
+      "gamesHosted": "Rozegranych gier",
+      "players": "Graczy",
+      "sports": "Dyscyplin sportowych",
+      "averageRating": "Średnia ocena"
+    }
+  },
+  "auth": {
+    "createAccount": "Utwórz konto",
+    "welcomeBack": "Witaj ponownie",
+    "tagline": "Dołącz do gry w pobliżu.",
+    "continueWithGoogle": "Kontynuuj z Google",
+    "continueWithApple": "Kontynuuj z Apple",
+    "or": "lub",
+    "email": "Email",
+    "emailPlaceholder": "name{'@'}example.com",
+    "password": "Hasło",
+    "forgotPassword": "Zapomniałeś hasła?",
+    "passwordPlaceholder": "Wpisz hasło",
+    "signUp": "Zarejestruj się",
+    "signInSubmit": "Zaloguj się",
+    "alreadyHaveAccount": "Masz już konto?",
+    "dontHaveAccount": "Nie masz konta?",
+    "errors": {
+      "signUpFailed": "Nie udało się utworzyć konta. Sprawdź email i hasło.",
+      "wrongCredentials": "Nieprawidłowy email lub hasło.",
+      "googleFailed": "Logowanie przez Google nie powiodło się. Spróbuj ponownie."
+    },
+    "toast": {
+      "appleComingSoon": "Logowanie przez Apple już wkrótce — użyj Google lub email"
+    }
+  },
+  "map": {
+    "createMatch": "Utwórz mecz",
+    "gamesHere": "Gry tutaj",
+    "filter": {
+      "all": "Wszystkie",
+      "open": "Otwarte",
+      "assigned": "Przypisane"
+    },
+    "nearbyGames": "Gry w pobliżu",
+    "filterButton": "Filtr",
+    "emptyNoGames": {
+      "title": "Nie ma tu jeszcze żadnych gier",
+      "description": "Przesuń lub przybliż mapę, aby zobaczyć inne rejony {city}."
+    },
+    "emptyNoMatches": {
+      "title": "Brak wyników",
+      "description": "Żadna gra nie pasuje do wyszukiwania lub filtrów. Spróbuj je wyczyścić."
+    },
+    "demoNotice": "Mapa demonstracyjna — dodaj klucze API w .env, aby zobaczyć prawdziwą mapę",
+    "recenter": "Wyśrodkuj mapę",
+    "zoomIn": "Przybliż",
+    "zoomOut": "Oddal",
+    "joinGame": "Dołącz do gry",
+    "viewDetails": "Zobacz szczegóły",
+    "filtersTitle": "Filtry",
+    "filtersSport": "Sport",
+    "filtersAllSports": "Wszystkie sporty",
+    "filtersMaxPrice": "Cena maksymalna",
+    "filtersApply": "Zastosuj filtry",
+    "filtersClear": "Wyczyść wszystko"
+  },
+  "sidebar": {
+    "toggleSidebar": "Zwiń panel boczny",
+    "editAvatar": "Edytuj awatar",
+    "games": "Gry",
+    "awards": "Nagrody",
+    "plan": "Plan",
+    "plans": {
+      "admin": "Administrator",
+      "vip": "VIP",
+      "free": "Bezpłatny"
+    },
+    "guestTitle": "Gość",
+    "guestSubtitle": "Zaloguj się, aby śledzić swoje gry",
+    "player": "Gracz"
+  },
+  "cabinet": {
+    "title": "Panel",
+    "subtitle": "Zarządzaj nadchodzącymi meczami i komunikacją z drużyną.",
+    "upcomingGames": "Nadchodzące gry",
+    "pastGames": "Minione gry",
+    "myTeams": "Moje drużyny",
+    "hosting": "Organizuję",
+    "gamesJoined": "Rozegranych gier",
+    "paid": "Opłacone",
+    "waitingForPayment": "Oczekuje na płatność",
+    "totalSpent": "Łącznie wydano",
+    "viewFullAnalytics": "Zobacz pełną analitykę",
+    "analyticsComingSoon": "Pełna analityka już wkrótce",
+    "emptyUpcoming": "Brak nadchodzących gier. Znajdź grę na mapie i dołącz.",
+    "emptyPast": "Nie ma jeszcze żadnych minionych gier.",
+    "weatherMock": "18°C, bezchmurnie",
+    "teamsEmptyTitle": "Brak drużyn",
+    "teamsEmptyDescription": "Dołącz do drużyny poniżej, aby grać razem na stałe.",
+    "discoverTeams": "Odkryj drużyny",
+    "joinTeam": "Dołącz do drużyny",
+    "leaveTeam": "Opuść drużynę",
+    "membersCount": "{count} członków"
+  },
+  "communities": {
+    "subtitle": "Znajdź swoich ludzi, nie tylko kolejną grę. Wkrótce start.",
+    "features": {
+      "localClubs": {
+        "title": "Lokalne kluby",
+        "description": "Obserwuj kluby sportowe w pobliżu i sprawdzaj, kiedy organizują nowe gry."
+      },
+      "teamChat": {
+        "title": "Czat drużynowy",
+        "description": "Rozmawiaj z drużyną przed meczem i po nim, wszystko w jednym miejscu."
+      },
+      "communityEvents": {
+        "title": "Wydarzenia społeczności",
+        "description": "Turnieje, spotkania i wieczory towarzyskie organizowane przez takich graczy jak Ty."
+      }
+    },
+    "getNotified": "Powiadom mnie o starcie",
+    "emailPlaceholder": "name{'@'}example.com",
+    "notifyMe": "Powiadom mnie",
+    "subscribedTitle": "Jesteś na liście!",
+    "subscribedDescription": "Napiszemy do Ciebie, gdy tylko Społeczności ruszą."
+  },
+  "settings": {
+    "subtitle": "Zarządzaj profilem, preferencjami i kontem.",
+    "profile": {
+      "title": "Profil",
+      "displayName": "Wyświetlana nazwa",
+      "email": "Email",
+      "bio": "O mnie",
+      "bioPlaceholder": "Opowiedz innym graczom trochę o sobie",
+      "fallbackName": "Gracz"
+    },
+    "preferences": {
+      "title": "Preferencje",
+      "language": "Język",
+      "units": "Jednostki miary",
+      "unitsMetric": "Metryczne (km)",
+      "unitsImperial": "Imperialne (mile)",
+      "darkMode": "Tryb ciemny",
+      "darkModeDescription": "Przełączaj między jasnym i ciemnym motywem."
+    },
+    "notifications": {
+      "title": "Powiadomienia",
+      "gameReminders": "Przypomnienia o grach",
+      "gameRemindersDescription": "Otrzymuj powiadomienie przed rozpoczęciem gier, do których dołączyłeś.",
+      "email": "Email",
+      "push": "Push",
+      "newMessages": "Nowe wiadomości",
+      "newMessagesDescription": "Otrzymuj powiadomienia o aktywności na czacie drużynowym.",
+      "marketingEmails": "Wiadomości marketingowe",
+      "marketingEmailsDescription": "Od czasu do czasu nowości o nowych funkcjach i sportach."
+    },
+    "security": {
+      "title": "Bezpieczeństwo",
+      "password": "Hasło",
+      "passwordLastChanged": "Ostatnio zmienione 3 miesiące temu.",
+      "changePassword": "Zmień hasło",
+      "twoFactor": "Uwierzytelnianie dwuskładnikowe",
+      "twoFactorDescription": "Zabezpiecz konto dodatkową warstwą ochrony.",
+      "enable2fa": "Włącz 2FA",
+      "dangerZone": "Strefa zagrożenia",
+      "dangerZoneDescription": "Trwale usuń konto i całą historię gier. Tej czynności nie można cofnąć.",
+      "deleteAccount": "Usuń konto",
+      "signOutDescription": "Aby uzyskać dostęp do konta, musisz zalogować się ponownie."
+    },
+    "save": "Zapisz zmiany",
+    "toast": {
+      "settingsSaved": "Ustawienia zapisane",
+      "changesDiscarded": "Zmiany odrzucone",
+      "darkModeComingSoon": "Tryb ciemny już wkrótce — Twój wybór został zapisany"
+    }
+  },
+  "game": {
+    "notFoundDescription": "Ta gra mogła zostać usunięta lub link jest nieprawidłowy.",
+    "organizedBy": "Organizator",
+    "seats": "Miejsca",
+    "seatsFree": "Wolne {left} z {total} miejsc · {price}",
+    "cancellationPolicy": "Zasady anulowania",
+    "cancellationPolicyText": "Bezpłatne anulowanie do 24 godzin przed rozpoczęciem gry. Późniejsze anulowania nie podlegają zwrotowi."
+  },
+  "booking": {
+    "joinThisGame": "Dołącz do gry",
+    "registeredMessage": "Jesteś zarejestrowany. Zobacz grę w swoim panelu.",
+    "paymentDetails": "Szczegóły płatności",
+    "completeBooking": "Bezpiecznie dokończ rezerwację.",
+    "card": "Karta",
+    "digitalWallet": "Portfel cyfrowy",
+    "nameOnCard": "Imię i nazwisko na karcie",
+    "nameOnCardPlaceholder": "np. Jan Kowalski",
+    "cardNumber": "Numer karty",
+    "cardNumberPlaceholder": "0000 0000 0000 0000",
+    "expiryDate": "Data ważności",
+    "expiryDatePlaceholder": "MM/RR",
+    "cvv": "CVV",
+    "cvvPlaceholder": "123",
+    "summary": "Podsumowanie",
+    "matchFee": "Opłata za mecz",
+    "platformFee": "Opłata platformy",
+    "total": "Razem",
+    "confirmAndPay": "Potwierdź i zapłać {price}",
+    "securePaymentsNotice": "Płatności są bezpieczne i szyfrowane.",
+    "cancelBooking": "Anuluj rezerwację"
+  },
+  "createGame": {
+    "exitBuilder": "Wyjdź z kreatora",
+    "stepOf": "Krok {step} z {total}",
+    "continueTo": "Przejdź do: {step}",
+    "publishGame": "Opublikuj grę",
+    "publishError": "Nie udało się opublikować gry. Spróbuj ponownie.",
+    "saveDraft": "Zapisz szkic",
+    "back": "Wstecz",
+    "draftSavedToast": "Szkic zapisany",
+    "hints": {
+      "title": "Dodaj tytuł gry, aby kontynuować",
+      "address": "Dodaj lokalizację, aby kontynuować",
+      "date": "Wybierz datę, aby kontynuować",
+      "timeOrder": "Godzina zakończenia musi być późniejsza niż rozpoczęcia, aby kontynuować"
+    },
+    "steps": {
+      "details": "Szczegóły",
+      "location": "Lokalizacja",
+      "logistics": "Logistyka",
+      "review": "Podsumowanie"
+    },
+    "success": {
+      "title": "Twoja gra jest opublikowana!",
+      "description": "„{title}” została opublikowana. Gracze mogą teraz znaleźć ją na mapie i dołączyć.",
+      "defaultTitle": "Twoja gra",
+      "createAnother": "Utwórz kolejną grę",
+      "viewOnMap": "Zobacz na mapie"
+    },
+    "details": {
+      "titleError": "Dodaj tytuł, aby gracze wiedzieli, czym jest ta gra",
+      "heading": "Skonfigurujmy Twoją grę",
+      "subheading": "Zacznij od podstaw — sport, tytuł i krótki opis.",
+      "sport": "Sport",
+      "gameTitle": "Tytuł gry",
+      "titlePlaceholder": "np. Niedzielna piątka na Rynku 14",
+      "descriptionPlaceholder": "Powiedz graczom, czego się spodziewać: poziom, zasady, co zabrać...",
+      "hostingTip": "Wskazówka dla organizatora",
+      "hostingTipText": "Gry z jasnym tytułem i przyjaznym opisem zapełniają się 2 razy szybciej. Wspomnij o klimacie — rywalizacja, luz czy dla początkujących.",
+      "livePreview": "Podgląd na żywo",
+      "draftBadge": "Szkic",
+      "previewTitleFallback": "Tytuł Twojej gry",
+      "previewDescriptionFallback": "Tutaj pojawi się Twój opis.",
+      "courtType": "Typ boiska",
+      "courtTypes": {
+        "indoor": {
+          "label": "W hali",
+          "description": "Hala sportowa, kort kryty"
+        },
+        "sand": {
+          "label": "Plaża / piasek",
+          "description": "Zewnętrzne boisko piaskowe"
+        },
+        "outdoor": {
+          "label": "Na zewnątrz, twarda nawierzchnia",
+          "description": "Na zewnątrz, twarda nawierzchnia"
+        }
+      }
+    },
+    "location": {
+      "addressError": "Dodaj adres, aby gracze wiedzieli, dokąd iść",
+      "heading": "Gdzie to się odbędzie?",
+      "subheading": "Wyszukaj obiekt lub wybierz taki, w którym już organizowałeś gry.",
+      "searchPlaceholder": "Szukaj boiska, kortu lub adresu",
+      "noVenuesMatch": "Brak wyników dla „{query}”. Spróbuj innego wyszukiwania lub wpisz adres poniżej.",
+      "fullAddress": "Pełny adres",
+      "addressPlaceholder": "Wpisz dokładny adres, pod który mają przyjść gracze",
+      "pickPin": "Wybierz obiekt lub wpisz adres, aby zobaczyć pinezkę",
+      "selectedLocation": "Wybrana lokalizacja",
+      "noLocationSelected": "Lokalizacja nie została jeszcze wybrana."
+    },
+    "logistics": {
+      "dateError": "Wybierz datę gry",
+      "timeOrderWarning": "Godzina zakończenia musi być późniejsza niż rozpoczęcia",
+      "heading": "Kiedy i ile osób?",
+      "subheading": "Ustaw harmonogram, limit graczy i cenę za gracza.",
+      "startTime": "Godzina rozpoczęcia",
+      "endTime": "Godzina zakończenia",
+      "maxPlayers": "Maksymalna liczba graczy",
+      "pricePerPlayer": "Cena za gracza (PLN)",
+      "publicGame": "Gra publiczna",
+      "publicGameDescription": "Każdy może znaleźć grę i dołączyć. Wyłącz, aby ustawić ją tylko na zaproszenia.",
+      "skillLevel": "Poziom umiejętności",
+      "skillLevels": {
+        "beginner": {
+          "label": "Początkujący",
+          "description": "Nowy w tym sporcie, spokojne tempo"
+        },
+        "intermediate": {
+          "label": "Średniozaawansowany",
+          "description": "Dobrze zna podstawy"
+        },
+        "advanced": {
+          "label": "Zaawansowany",
+          "description": "Rywalizacja, dynamiczne gry"
+        }
+      },
+      "summary": "Podsumowanie",
+      "maxSuffix": "maks. {count}",
+      "potentialPool": "Potencjalna pula",
+      "datePlaceholder": "Wybierz datę"
+    },
+    "review": {
+      "heading": "Podsumowanie i publikacja",
+      "subheading": "Sprawdź szczegóły poniżej. Nadal możesz wrócić i coś zmienić.",
+      "confirmDetails": "Potwierdź szczegóły",
+      "dateTime": "Data i godzina",
+      "price": "Cena",
+      "upTo": "Do {count}",
+      "pricePerPlayer": "{price} PLN / gracza",
+      "noDescriptionAdded": "Nie dodano opisu.",
+      "howPlayersSeeIt": "Jak zobaczą to gracze",
+      "public": "Publiczna",
+      "inviteOnly": "Tylko na zaproszenia",
+      "untitledGame": "Gra bez tytułu"
+    }
+  },
+  "sport": {
+    "football": "Piłka nożna",
+    "basketball": "Koszykówka",
+    "volleyball": "Siatkówka",
+    "tableTennis": "Tenis stołowy",
+    "tennis": "Tenis",
+    "squash": "Squash",
+    "badminton": "Badminton",
+    "running": "Bieganie",
+    "game": "Gra"
+  },
+  "gameStatus": {
+    "open": "Otwarta",
+    "almostFull": "Prawie pełna",
+    "full": "Pełna",
+    "inProgress": "W trakcie",
+    "finished": "Zakończona",
+    "cancelled": "Odwołana"
+  },
+  "bookingStatus": {
+    "confirmed": "Potwierdzone",
+    "paymentDue": "Oczekuje płatności"
+  },
+  "gamesList": {
+    "emptyDefault": "Nie masz jeszcze żadnych gier. Znajdź grę na mapie i dołącz.",
+    "emptyStateTitle": "Tu jeszcze nic nie ma",
+    "joiningCount": "{count} dołącza",
+    "details": "Szczegóły",
+    "cancel": "Anuluj",
+    "cancelledToast": "Rezerwacja anulowana"
+  },
+  "notFound": {
+    "title": "Nie znaleziono strony",
+    "description": "Nie mogliśmy znaleźć szukanej strony. Mogła zostać przeniesiona lub link jest nieprawidłowy."
+  },
+  "legal": {
+    "terms": {
+      "title": "Regulamin",
+      "sections": {
+        "acceptance": {
+          "heading": "Akceptacja regulaminu",
+          "body": "Korzystając z GameMap, akceptujesz ten regulamin. Jeśli się nie zgadzasz, prosimy nie korzystać z aplikacji."
+        },
+        "usage": {
+          "heading": "Korzystanie z platformy",
+          "body": "Możesz przeglądać, tworzyć gry i do nich dołączać. Szanuj innych graczy i przestrzegaj zasad każdego obiektu."
+        },
+        "payments": {
+          "heading": "Płatności",
+          "body": "Niektóre gry wymagają opłaty za dołączenie. Cena jest widoczna przed płatnością. Zwroty odbywają się zgodnie z naszą polityką anulowania."
+        },
+        "account": {
+          "heading": "Odpowiedzialność za konto",
+          "body": "Chroń dane logowania. Odpowiadasz za działania wykonane na Twoim koncie."
+        },
+        "changes": {
+          "heading": "Zmiany regulaminu",
+          "body": "Możemy od czasu do czasu aktualizować ten regulamin. Poinformujemy Cię o istotnych zmianach."
+        }
+      }
+    },
+    "privacy": {
+      "title": "Polityka prywatności",
+      "sections": {
+        "collection": {
+          "heading": "Co zbieramy",
+          "body": "Zbieramy Twoje imię, email, zdjęcie profilowe oraz aktywność w grach i drużynach (zapisy na gry, status płatności, członkostwo w drużynach) — to potrzebne, aby aplikacja działała."
+        },
+        "usage": {
+          "heading": "Jak wykorzystujemy dane",
+          "body": "Wykorzystujemy Twoje dane, aby prowadzić Twoje konto, pokazywać Twoje gry, przetwarzać płatności i ulepszać GameMap. Nie używamy ich do reklamy."
+        },
+        "sharing": {
+          "heading": "Udostępnianie danych",
+          "body": "Nie sprzedajemy Twoich danych. Udostępniamy je tylko usługom, na których działa GameMap — naszemu dostawcy hostingu i bazy danych (Google Firebase, hostowany w UE) oraz, gdy uruchomimy płatności online, dostawcy płatności."
+        },
+        "rights": {
+          "heading": "Twoje prawa",
+          "body": "W dowolnym momencie możesz zobaczyć lub zmienić swoje dane w Ustawieniach. Usunięcie konta tam trwale usuwa Twoje konto oraz historię gier i drużyn — tej czynności nie można cofnąć."
+        },
+        "cookies": {
+          "heading": "Pliki cookie i pamięć lokalna",
+          "body": "Używamy tylko takiej pamięci, jakiej potrzebuje GameMap: aby utrzymać Twoje zalogowanie oraz zapamiętać język i preferencje interfejsu. Nie używamy plików cookie do reklam ani śledzenia."
+        }
+      }
+    },
+    "safety": {
+      "title": "Bezpieczeństwo",
+      "sections": {
+        "meeting": {
+          "heading": "Spotkania z innymi graczami",
+          "body": "Gry towarzyskie łączą osoby, których możesz nie znać. Spotykaj się w miejscach publicznych i ufaj swojej intuicji."
+        },
+        "reporting": {
+          "heading": "Zgłaszanie problemów",
+          "body": "Jeśli coś wydaje się nie tak, opuść grę i daj nam znać. Traktujemy każde zgłoszenie poważnie."
+        },
+        "venue": {
+          "heading": "Zasady obiektów",
+          "body": "Przestrzegaj zasad każdego obiektu, w tym godzin otwarcia i wymagań dotyczących sprzętu."
+        },
+        "health": {
+          "heading": "Zdrowie i kondycja",
+          "body": "Upewnij się, że jesteś wystarczająco sprawny do danego sportu. Rozgrzej się i pij wodę."
+        },
+        "emergency": {
+          "heading": "Sytuacje awaryjne",
+          "body": "W nagłym wypadku najpierw zadzwoń po lokalne służby ratunkowe, a potem daj nam znać."
+        }
+      }
+    },
+    "support": {
+      "title": "Wsparcie",
+      "sections": {
+        "gettingStarted": {
+          "heading": "Pierwsze kroki",
+          "body": "Nowy w GameMap? Przeglądaj mapę, wybierz grę i dołącz jednym dotknięciem."
+        },
+        "payments": {
+          "heading": "Płatności i zwroty",
+          "body": "Masz pytania dotyczące opłaty? Sprawdź historię gier i płatności w Panelu."
+        },
+        "account": {
+          "heading": "Problemy z kontem",
+          "body": "Nie możesz się zalogować lub zmienić danych? Przejdź do Ustawień lub skontaktuj się z nami."
+        },
+        "contact": {
+          "heading": "Skontaktuj się z nami",
+          "body": "Napisz do nas na support@gamemap.app, odpowiemy w ciągu jednego dnia roboczego."
+        },
+        "reportProblem": {
+          "heading": "Zgłoś problem",
+          "body": "Znalazłeś błąd lub niewłaściwą grę? Daj nam znać, a to naprawimy."
+        }
+      }
+    }
+  },
+  "modals": {
+    "changePassword": {
+      "title": "Zmień hasło",
+      "currentPassword": "Obecne hasło",
+      "newPassword": "Nowe hasło",
+      "confirmPassword": "Potwierdź nowe hasło",
+      "submit": "Zaktualizuj hasło",
+      "success": "Hasło zaktualizowane",
+      "mismatch": "Nowe hasła się nie zgadzają"
+    },
+    "twoFactor": {
+      "title": "Włącz uwierzytelnianie dwuskładnikowe",
+      "description": "Zeskanuj ten kod w aplikacji uwierzytelniającej, a następnie wpisz 6-cyfrowy kod, aby potwierdzić.",
+      "codeLabel": "Kod weryfikacyjny",
+      "codePlaceholder": "000000",
+      "submit": "Włącz 2FA",
+      "success": "Uwierzytelnianie dwuskładnikowe jest włączone"
+    },
+    "deleteAccount": {
+      "title": "Usunąć konto?",
+      "description": "To trwale usunie Twoje konto i całą historię gier. Tej czynności nie można cofnąć.",
+      "confirmLabel": "Wpisz DELETE, aby potwierdzić",
+      "confirmPlaceholder": "DELETE",
+      "submit": "Usuń moje konto",
+      "success": "Twoje konto zostało usunięte",
+      "error": "Nie udało się usunąć konta. Jeśli zalogowałeś się dawno temu, wyloguj się, zaloguj ponownie i spróbuj jeszcze raz."
+    },
+    "avatar": {
+      "title": "Wybierz awatar",
+      "description": "Wybierz jeden z gotowych awatarów poniżej.",
+      "submit": "Zapisz awatar",
+      "success": "Awatar zaktualizowany"
+    },
+    "forgotPassword": {
+      "title": "Zresetuj hasło",
+      "description": "Podaj swój email, a wyślemy Ci link do zresetowania hasła.",
+      "submit": "Wyślij link resetujący",
+      "success": "Sprawdź swoją skrzynkę — wysłaliśmy link do zresetowania hasła.",
+      "error": "Nie udało się wysłać linku resetującego. Sprawdź adres email i spróbuj ponownie."
+    }
+  },
+  "notifications": {
+    "title": "Powiadomienia",
+    "empty": "Brak nowych powiadomień",
+    "emptyDescription": "Tutaj pojawią się powiadomienia o Twoich grach.",
+    "sample1Title": "Przypomnienie o grze",
+    "sample1Body": "Twoja gra w piłkę nożną na Rynek 14 zaczyna się za 1 godzinę.",
+    "sample2Title": "Płatność potwierdzona",
+    "sample2Body": "Twoja płatność za niedzielną grę zakończyła się sukcesem.",
+    "sample3Title": "Zwolniło się miejsce",
+    "sample3Body": "W grze w koszykówkę w pobliżu zwolniło się miejsce.",
+    "time1h": "1 godzinę temu",
+    "time3h": "3 godziny temu",
+    "timeYesterday": "Wczoraj",
+    "clearAll": "Wyczyść wszystko"
+  },
+  "language": {
+    "en": "English",
+    "ru": "Русский",
+    "uk": "Українська",
+    "be": "Беларуская",
+    "pl": "Polski"
+  },
+  "organizer": {
+    "hostedGamesTitle": "Gry, które organizujesz",
+    "hostedGamesEmpty": "Nie opublikowałeś jeszcze żadnej gry.",
+    "rosterTitle": "Skład",
+    "rosterEmpty": "Nikt jeszcze nie dołączył.",
+    "remove": "Usuń",
+    "removedToast": "Gracz usunięty"
+  }
+}

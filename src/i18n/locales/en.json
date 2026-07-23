@@ -1,0 +1,700 @@
+{
+  "common": {
+    "brand": "GameMap",
+    "free": "Free",
+    "notSet": "Not set",
+    "signIn": "Sign in",
+    "signOut": "Sign out",
+    "discover": "Discover",
+    "communities": "Communities",
+    "settings": "Settings",
+    "browseGames": "Browse games",
+    "readyToPlay": "Ready to play?",
+    "date": "Date",
+    "time": "Time",
+    "players": "Players",
+    "description": "Description",
+    "location": "Location",
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "confirm": "Confirm",
+    "delete": "Delete",
+    "back": "Back",
+    "next": "Next",
+    "loading": "Loading...",
+    "city": "Wrocław",
+    "priceValue": "{price} PLN",
+    "playersWord": "player | players"
+  },
+  "nav": {
+    "searchPlaceholder": "Search location or sport...",
+    "createGame": "Create Game",
+    "notifications": "Notifications",
+    "cabinet": "Cabinet",
+    "map": "Map",
+    "myGames": "My Games"
+  },
+  "footer": {
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "safety": "Safety",
+    "support": "Support",
+    "comingSoon": "{page} page is coming soon",
+    "copyright": "© 2026 GameMap. Elevate your game."
+  },
+  "landing": {
+    "badge": "Wrocław's pickup sports platform",
+    "heroTitlePart1": "Find your",
+    "heroTitlePart2": "next game",
+    "heroTitlePart3": "in seconds",
+    "heroDescription": "Discover pickup football, basketball, volleyball and more happening near you today. Join, pay, play — no group chats required.",
+    "signUpFree": "Sign up free",
+    "goToDashboard": "Go to dashboard",
+    "toggleNavigation": "Toggle navigation",
+    "scrollProgressLabel": "Page scroll progress",
+    "nav": {
+      "liveGames": "Live now",
+      "features": "Features",
+      "howItWorks": "How it works",
+      "sports": "Sports"
+    },
+    "mockCard": {
+      "nearbyGames": "Nearby Games",
+      "open": "Open",
+      "footballAlt": "Football",
+      "footballTitle": "Football 5v5 — Old Town",
+      "footballTime": "Today · 20:00 · Rynek 14",
+      "basketballAlt": "Basketball",
+      "basketballTitle": "Basketball 3×3 — Nadodrze",
+      "basketballTime": "Tomorrow · 19:30 · Trzebnicka 12"
+    },
+    "lovedByPrefix": "Loved by",
+    "lovedBySuffix": "players across Wrocław",
+    "rating": "4.8/5",
+    "liveGames": {
+      "title": "Games happening right now",
+      "subtitle": "A live look at the map — this is what's on today.",
+      "status": {
+        "startingIn": "Starting in {n}m",
+        "spotsLeft": "{n} spots left",
+        "liveNow": "Live now"
+      },
+      "volleyball": {
+        "title": "Volleyball 4v4 — Zalew Riverside",
+        "location": "Zalew Riverside Beach"
+      },
+      "football": {
+        "title": "Football 6v6 — Stadion Olimpijski",
+        "location": "Stadion Olimpijski, Wrocław"
+      },
+      "basketball": {
+        "title": "Basketball 3×3 — Plac Grunwaldzki",
+        "location": "Plac Grunwaldzki Court"
+      }
+    },
+    "featuresTitle": "Everything you need to play more",
+    "featuresSubtitle": "GameMap handles the logistics so you can focus on the game.",
+    "features": {
+      "findNearby": {
+        "title": "Find nearby games",
+        "description": "Browse a live map of pickup games happening around Wrocław, filtered by sport and status."
+      },
+      "joinInstantly": {
+        "title": "Join instantly",
+        "description": "Reserve your spot in one tap. No group chats, no waiting for a reply."
+      },
+      "paySecurely": {
+        "title": "Pay securely",
+        "description": "Card or digital wallet checkout, clear fees."
+      },
+      "trackStats": {
+        "title": "Track your stats",
+        "description": "Season stats, history and reliability, all in one place."
+      }
+    },
+    "nightSection": {
+      "imgAlt": "Floodlit pitch at night",
+      "title": "Real games, every night",
+      "description": "From five-a-side under the floodlights to weekend tournaments — there's always a game waiting for you."
+    },
+    "howItWorksTitle": "How it works",
+    "howItWorksSubtitle": "From search to kickoff in three simple steps.",
+    "steps": {
+      "discover": {
+        "title": "Discover a game",
+        "description": "Search the map for open games near you, at the time that works for you."
+      },
+      "reserve": {
+        "title": "Reserve your spot",
+        "description": "Join with one tap and pay securely to lock in your place on the roster."
+      },
+      "showUp": {
+        "title": "Show up and play",
+        "description": "Meet the other players, warm up, and enjoy the game."
+      }
+    },
+    "stepNumber": "{n}. {title}",
+    "sportsTitle": "Play the sport you love",
+    "sportsSubtitle": "New games are added across Wrocław every day.",
+    "finalCtaSubtitle": "Join GameMap and find your next game today.",
+    "stats": {
+      "gamesHosted": "Games hosted",
+      "players": "Players",
+      "sports": "Sports",
+      "averageRating": "Average rating"
+    },
+    "testimonials": {
+      "title": "Players are loving it",
+      "subtitle": "Real words from people who found their game on GameMap.",
+      "items": [
+        {
+          "name": "Marta K.",
+          "role": "Volleyball, 3x a week",
+          "quote": "I moved to a new city and found a full volleyball crew in my first week. No group chats, just tap and play."
+        },
+        {
+          "name": "Tomasz W.",
+          "role": "Football host",
+          "quote": "Hosting used to mean fifty messages a week. Now people just join, pay, and show up. Huge time saver."
+        },
+        {
+          "name": "Julia S.",
+          "role": "Basketball, weekend regular",
+          "quote": "The live map is addictive. I check it every morning to see what's on near me that evening."
+        },
+        {
+          "name": "Adam P.",
+          "role": "Tennis player",
+          "quote": "Booking a court and finding a partner used to be two separate headaches. Now it's one tap."
+        },
+        {
+          "name": "Kasia N.",
+          "role": "Running club organizer",
+          "quote": "Our running group grew from 6 to 40 people since we started listing runs on GameMap."
+        }
+      ]
+    }
+  },
+  "auth": {
+    "createAccount": "Create account",
+    "welcomeBack": "Welcome back",
+    "tagline": "Join the game near you.",
+    "continueWithGoogle": "Continue with Google",
+    "continueWithApple": "Continue with Apple",
+    "or": "or",
+    "email": "Email",
+    "emailPlaceholder": "name{'@'}example.com",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "passwordPlaceholder": "Enter your password",
+    "signUp": "Sign up",
+    "signInSubmit": "Sign In",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "errors": {
+      "signUpFailed": "Could not create the account. Check the email and password.",
+      "wrongCredentials": "Wrong email or password.",
+      "googleFailed": "Google sign-in failed. Try again."
+    },
+    "toast": {
+      "appleComingSoon": "Apple sign-in is coming soon — try Google or email"
+    }
+  },
+  "map": {
+    "createMatch": "Create Match",
+    "gamesHere": "Games here",
+    "filter": {
+      "all": "All",
+      "open": "Open",
+      "assigned": "Assigned"
+    },
+    "nearbyGames": "Nearby Games",
+    "filterButton": "Filter",
+    "emptyNoGames": {
+      "title": "No games here yet",
+      "description": "Pan or zoom the map to explore other areas of {city}."
+    },
+    "emptyNoMatches": {
+      "title": "No matches",
+      "description": "No games match your search or filters. Try clearing them."
+    },
+    "demoNotice": "Demo map — add API keys in .env for the real one",
+    "recenter": "Recenter map",
+    "zoomIn": "Zoom in",
+    "zoomOut": "Zoom out",
+    "joinGame": "Join Game",
+    "viewDetails": "View Details",
+    "filtersTitle": "Filters",
+    "filtersSport": "Sport",
+    "filtersAllSports": "All sports",
+    "filtersMaxPrice": "Max price",
+    "filtersApply": "Apply filters",
+    "filtersClear": "Clear all"
+  },
+  "sidebar": {
+    "toggleSidebar": "Toggle sidebar",
+    "editAvatar": "Edit avatar",
+    "games": "Games",
+    "awards": "Awards",
+    "plan": "Plan",
+    "plans": {
+      "admin": "Admin",
+      "vip": "Vip",
+      "free": "Free"
+    },
+    "guestTitle": "Guest",
+    "guestSubtitle": "Sign in to track your games",
+    "player": "Player"
+  },
+  "cabinet": {
+    "title": "Dashboard",
+    "subtitle": "Manage your upcoming matches and team communications.",
+    "upcomingGames": "Upcoming Games",
+    "pastGames": "Past Games",
+    "myTeams": "My Teams",
+    "hosting": "Hosting",
+    "gamesJoined": "Games joined",
+    "paid": "Paid",
+    "waitingForPayment": "Waiting for payment",
+    "totalSpent": "Total spent",
+    "viewFullAnalytics": "View Full Analytics",
+    "analyticsComingSoon": "Full analytics dashboard is coming soon",
+    "emptyUpcoming": "No upcoming games. Find one on the map and join it.",
+    "emptyPast": "No past games yet.",
+    "weatherMock": "18°C, clear skies",
+    "teamsEmptyTitle": "No teams yet",
+    "teamsEmptyDescription": "Join a team below to play together on a regular basis.",
+    "discoverTeams": "Discover teams",
+    "joinTeam": "Join team",
+    "leaveTeam": "Leave team",
+    "membersCount": "{count} members"
+  },
+  "communities": {
+    "subtitle": "Find your people, not just your next game. Launching soon.",
+    "features": {
+      "localClubs": {
+        "title": "Local clubs",
+        "description": "Follow sports clubs near you and see when they open new games."
+      },
+      "teamChat": {
+        "title": "Team chat",
+        "description": "Talk to your teammates before and after the match, all in one place."
+      },
+      "communityEvents": {
+        "title": "Community events",
+        "description": "Tournaments, meetups and social nights organized by players like you."
+      }
+    },
+    "getNotified": "Get notified when it launches",
+    "emailPlaceholder": "name{'@'}example.com",
+    "notifyMe": "Notify me",
+    "subscribedTitle": "You're on the list!",
+    "subscribedDescription": "We'll email you the moment Communities launches."
+  },
+  "settings": {
+    "subtitle": "Manage your profile, preferences and account.",
+    "profile": {
+      "title": "Profile",
+      "displayName": "Display name",
+      "email": "Email",
+      "bio": "Bio",
+      "bioPlaceholder": "Tell other players a bit about yourself",
+      "fallbackName": "Player"
+    },
+    "preferences": {
+      "title": "Preferences",
+      "language": "Language",
+      "units": "Measurement units",
+      "unitsMetric": "Metric (km)",
+      "unitsImperial": "Imperial (mi)",
+      "darkMode": "Dark mode",
+      "darkModeDescription": "Switch between light and dark theme."
+    },
+    "notifications": {
+      "title": "Notifications",
+      "gameReminders": "Game reminders",
+      "gameRemindersDescription": "Get notified before games you joined start.",
+      "email": "Email",
+      "push": "Push",
+      "newMessages": "New messages",
+      "newMessagesDescription": "Get notified about team chat activity.",
+      "marketingEmails": "Marketing emails",
+      "marketingEmailsDescription": "Occasional news about new features and sports."
+    },
+    "security": {
+      "title": "Security",
+      "password": "Password",
+      "passwordLastChanged": "Last changed 3 months ago.",
+      "changePassword": "Change password",
+      "twoFactor": "Two-factor authentication",
+      "twoFactorDescription": "Protect your account with an extra layer of security.",
+      "enable2fa": "Enable 2FA",
+      "dangerZone": "Danger zone",
+      "dangerZoneDescription": "Permanently delete your account and all associated game history. This action cannot be undone.",
+      "deleteAccount": "Delete account",
+      "signOutDescription": "You'll need to sign in again to access your account."
+    },
+    "save": "Save changes",
+    "toast": {
+      "settingsSaved": "Settings saved",
+      "changesDiscarded": "Changes discarded",
+      "darkModeComingSoon": "Dark mode is coming soon — your preference is saved"
+    }
+  },
+  "game": {
+    "notFoundDescription": "This game may have been removed, or the link is incorrect.",
+    "organizedBy": "Organized by",
+    "seats": "Seats",
+    "seatsFree": "{left} of {total} seats free · {price}",
+    "cancellationPolicy": "Cancellation Policy",
+    "cancellationPolicyText": "Free cancellation up to 24 hours before the game starts. Late cancellations will not be refunded."
+  },
+  "booking": {
+    "joinThisGame": "Join this game",
+    "registeredMessage": "You are registered. See the game in your cabinet.",
+    "paymentDetails": "Payment Details",
+    "completeBooking": "Complete your booking securely.",
+    "card": "Card",
+    "digitalWallet": "Digital Wallet",
+    "nameOnCard": "Name on Card",
+    "nameOnCardPlaceholder": "e.g. Jane Doe",
+    "cardNumber": "Card Number",
+    "cardNumberPlaceholder": "0000 0000 0000 0000",
+    "expiryDate": "Expiry Date",
+    "expiryDatePlaceholder": "MM/YY",
+    "cvv": "CVV",
+    "cvvPlaceholder": "123",
+    "summary": "Summary",
+    "matchFee": "Match Fee",
+    "platformFee": "Platform Fee",
+    "total": "Total",
+    "confirmAndPay": "Confirm & Pay {price}",
+    "securePaymentsNotice": "Payments are secure and encrypted.",
+    "cancelBooking": "Cancel booking"
+  },
+  "createGame": {
+    "exitBuilder": "Exit builder",
+    "stepOf": "Step {step} of {total}",
+    "continueTo": "Continue to {step}",
+    "publishGame": "Publish game",
+    "publishError": "Couldn't publish your game. Please try again.",
+    "saveDraft": "Save draft",
+    "back": "Back",
+    "draftSavedToast": "Draft saved",
+    "hints": {
+      "title": "Add a game title to continue",
+      "address": "Add a location to continue",
+      "date": "Pick a date to continue",
+      "timeOrder": "End time should be after the start time to continue"
+    },
+    "steps": {
+      "details": "Details",
+      "location": "Location",
+      "logistics": "Logistics",
+      "review": "Review"
+    },
+    "success": {
+      "title": "Your game is live!",
+      "description": "{title} has been published. Players can now find it on the map and join.",
+      "defaultTitle": "Your game",
+      "createAnother": "Create another game",
+      "viewOnMap": "View on the map"
+    },
+    "details": {
+      "titleError": "Add a title so players know what this game is",
+      "heading": "Let's set up your game",
+      "subheading": "Start with the basics — sport, title and a short description.",
+      "sport": "Sport",
+      "gameTitle": "Game title",
+      "titlePlaceholder": "e.g. Sunday 5-a-side at Rynek 14",
+      "descriptionPlaceholder": "Tell players what to expect: skill level, rules, what to bring...",
+      "hostingTip": "Hosting tip",
+      "hostingTipText": "Games with a clear title and a friendly description fill up 2x faster. Mention the vibe — competitive, casual, or beginner-friendly.",
+      "livePreview": "Live preview",
+      "draftBadge": "Draft",
+      "previewTitleFallback": "Your game title",
+      "previewDescriptionFallback": "Your description will appear here.",
+      "courtType": "Court type",
+      "courtTypes": {
+        "indoor": {
+          "label": "Indoor",
+          "description": "Sports hall, indoor court"
+        },
+        "sand": {
+          "label": "Beach / sand",
+          "description": "Outdoor sand court"
+        },
+        "outdoor": {
+          "label": "Outdoor hard court",
+          "description": "Outdoor, hard surface"
+        }
+      }
+    },
+    "location": {
+      "addressError": "Add an address so players know where to go",
+      "heading": "Where is it happening?",
+      "subheading": "Search for a venue or pick one you've hosted at before.",
+      "searchPlaceholder": "Search for a court, pitch or address",
+      "noVenuesMatch": "No venues match \"{query}\". Try a different search or type the address below.",
+      "fullAddress": "Full address",
+      "addressPlaceholder": "Type the exact address players should go to",
+      "pickPin": "Pick a venue or enter an address to preview the pin",
+      "selectedLocation": "Selected location",
+      "noLocationSelected": "No location selected yet."
+    },
+    "logistics": {
+      "dateError": "Pick a date for the game",
+      "timeOrderWarning": "End time should be after the start time",
+      "heading": "When and how many?",
+      "subheading": "Set the schedule, player limit and price per player.",
+      "startTime": "Start time",
+      "endTime": "End time",
+      "maxPlayers": "Max players",
+      "pricePerPlayer": "Price per player (PLN)",
+      "publicGame": "Public game",
+      "publicGameDescription": "Anyone can find and join. Turn off to make it invite-only.",
+      "skillLevel": "Skill level",
+      "skillLevels": {
+        "beginner": {
+          "label": "Beginner",
+          "description": "New to the sport, casual pace"
+        },
+        "intermediate": {
+          "label": "Intermediate",
+          "description": "Comfortable with the basics"
+        },
+        "advanced": {
+          "label": "Advanced",
+          "description": "Competitive, fast-paced games"
+        }
+      },
+      "summary": "Summary",
+      "maxSuffix": "{count} max",
+      "potentialPool": "Potential pool",
+      "datePlaceholder": "Select a date"
+    },
+    "review": {
+      "heading": "Review and publish",
+      "subheading": "Double-check the details below. You can still go back and edit anything.",
+      "confirmDetails": "Confirm details",
+      "dateTime": "Date & time",
+      "price": "Price",
+      "upTo": "Up to {count}",
+      "pricePerPlayer": "{price} PLN / player",
+      "noDescriptionAdded": "No description added.",
+      "howPlayersSeeIt": "How players will see it",
+      "public": "Public",
+      "inviteOnly": "Invite-only",
+      "untitledGame": "Untitled game"
+    }
+  },
+  "sport": {
+    "football": "Football",
+    "basketball": "Basketball",
+    "volleyball": "Volleyball",
+    "tableTennis": "Table tennis",
+    "tennis": "Tennis",
+    "squash": "Squash",
+    "badminton": "Badminton",
+    "running": "Running",
+    "game": "Game"
+  },
+  "gameStatus": {
+    "open": "Open",
+    "almostFull": "Almost full",
+    "full": "Full",
+    "inProgress": "In progress",
+    "finished": "Finished",
+    "cancelled": "Cancelled"
+  },
+  "bookingStatus": {
+    "confirmed": "Confirmed",
+    "paymentDue": "Payment Due"
+  },
+  "gamesList": {
+    "emptyDefault": "You have no games yet. Find one on the map and join it.",
+    "emptyStateTitle": "Nothing here yet",
+    "joiningCount": "{count} joining",
+    "details": "Details",
+    "cancel": "Cancel",
+    "cancelledToast": "Booking cancelled"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "We couldn't find the page you're looking for. It might have been moved or the link is incorrect."
+  },
+  "legal": {
+    "terms": {
+      "title": "Terms of Service",
+      "sections": {
+        "acceptance": {
+          "heading": "Acceptance of terms",
+          "body": "By using GameMap, you agree to these terms. If you don't agree, please don't use the app."
+        },
+        "usage": {
+          "heading": "Using the platform",
+          "body": "You can browse, create, and join pickup games. Be respectful to other players and follow the rules at each venue."
+        },
+        "payments": {
+          "heading": "Payments",
+          "body": "Some games need a fee to join. Prices are shown before you pay. Refunds follow our cancellation policy."
+        },
+        "account": {
+          "heading": "Account responsibility",
+          "body": "Keep your login details safe. You are responsible for what happens under your account."
+        },
+        "changes": {
+          "heading": "Changes to these terms",
+          "body": "We may update these terms from time to time. We'll let you know about any big changes."
+        }
+      }
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "sections": {
+        "collection": {
+          "heading": "What we collect",
+          "body": "We collect your name, email, avatar photo, and your game and team activity (bookings, payments status, team memberships) so the app can work."
+        },
+        "usage": {
+          "heading": "How we use your data",
+          "body": "We use your data to run your account, show your games, process payments, and improve GameMap. We don't use it for advertising."
+        },
+        "sharing": {
+          "heading": "Sharing your data",
+          "body": "We don't sell your data. We only share it with the services that run GameMap — our hosting and database provider (Google Firebase, hosted in the EU) and, once online payments launch, our payment processor."
+        },
+        "rights": {
+          "heading": "Your rights",
+          "body": "You can see or change your data any time in Settings. Deleting your account there permanently removes your account and your game and team history — this cannot be undone."
+        },
+        "cookies": {
+          "heading": "Cookies and local storage",
+          "body": "We only use storage that GameMap needs to work: keeping you signed in and remembering your language and display preferences. We don't use tracking or advertising cookies."
+        }
+      }
+    },
+    "safety": {
+      "title": "Safety",
+      "sections": {
+        "meeting": {
+          "heading": "Meeting other players",
+          "body": "Pickup games bring together people you may not know. Meet in public places and trust your instincts."
+        },
+        "reporting": {
+          "heading": "Reporting issues",
+          "body": "If something feels wrong, leave the game and tell us. We take every report seriously."
+        },
+        "venue": {
+          "heading": "Venue rules",
+          "body": "Follow the rules of each venue, including opening hours and any equipment requirements."
+        },
+        "health": {
+          "heading": "Health and fitness",
+          "body": "Make sure you're fit enough for the sport before you join. Warm up and stay hydrated."
+        },
+        "emergency": {
+          "heading": "Emergency situations",
+          "body": "In an emergency, call local emergency services first, then let us know what happened."
+        }
+      }
+    },
+    "support": {
+      "title": "Support",
+      "sections": {
+        "gettingStarted": {
+          "heading": "Getting started",
+          "body": "New to GameMap? Browse the map, pick a game, and join in one tap."
+        },
+        "payments": {
+          "heading": "Payments and refunds",
+          "body": "Questions about a charge? Check your Cabinet for game and payment history."
+        },
+        "account": {
+          "heading": "Account issues",
+          "body": "Trouble signing in or changing your details? Visit Settings or contact us below."
+        },
+        "contact": {
+          "heading": "Contact us",
+          "body": "Email us at support@gamemap.app and we'll get back to you within one business day."
+        },
+        "reportProblem": {
+          "heading": "Report a problem",
+          "body": "Found a bug or an inappropriate game? Let us know so we can fix it."
+        }
+      }
+    }
+  },
+  "modals": {
+    "changePassword": {
+      "title": "Change password",
+      "currentPassword": "Current password",
+      "newPassword": "New password",
+      "confirmPassword": "Confirm new password",
+      "submit": "Update password",
+      "success": "Password updated",
+      "mismatch": "New passwords don't match"
+    },
+    "twoFactor": {
+      "title": "Enable two-factor authentication",
+      "description": "Scan this code with your authenticator app, then enter the 6-digit code to confirm.",
+      "codeLabel": "Verification code",
+      "codePlaceholder": "000000",
+      "submit": "Enable 2FA",
+      "success": "Two-factor authentication is now enabled"
+    },
+    "deleteAccount": {
+      "title": "Delete your account?",
+      "description": "This will permanently delete your account and all your game history. This action cannot be undone.",
+      "confirmLabel": "Type DELETE to confirm",
+      "confirmPlaceholder": "DELETE",
+      "submit": "Delete my account",
+      "success": "Your account has been deleted",
+      "error": "Couldn't delete your account. If you signed in a while ago, sign out, sign back in, and try again."
+    },
+    "avatar": {
+      "title": "Choose your avatar",
+      "description": "Pick one of the preset avatars below.",
+      "submit": "Save avatar",
+      "success": "Avatar updated"
+    },
+    "forgotPassword": {
+      "title": "Reset your password",
+      "description": "Enter your email and we'll send you a link to reset your password.",
+      "submit": "Send reset link",
+      "success": "Check your email for a reset link.",
+      "error": "Couldn't send the reset link. Check the email address and try again."
+    }
+  },
+  "notifications": {
+    "title": "Notifications",
+    "empty": "You're all caught up",
+    "emptyDescription": "New notifications about your games will show up here.",
+    "sample1Title": "Game reminder",
+    "sample1Body": "Your football game at Rynek 14 starts in 1 hour.",
+    "sample2Title": "Payment confirmed",
+    "sample2Body": "Your payment for Sunday's game was successful.",
+    "sample3Title": "New spot opened",
+    "sample3Body": "A spot just opened up in a basketball game near you.",
+    "time1h": "1 hour ago",
+    "time3h": "3 hours ago",
+    "timeYesterday": "Yesterday",
+    "clearAll": "Clear all"
+  },
+  "language": {
+    "en": "English",
+    "ru": "Русский",
+    "uk": "Українська",
+    "be": "Беларуская",
+    "pl": "Polski"
+  },
+  "organizer": {
+    "hostedGamesTitle": "Games you host",
+    "hostedGamesEmpty": "You have not published any games yet.",
+    "rosterTitle": "Roster",
+    "rosterEmpty": "No one has joined yet.",
+    "remove": "Remove",
+    "removedToast": "Player removed"
+  }
+}

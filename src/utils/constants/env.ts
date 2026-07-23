@@ -1,0 +1,6 @@
+const GOOGLE_MAPS_API_KEY: string = import.meta.env.VITE_GOOGLE_MAPS_API_KEY ?? ''
+
+const IS_MOCK_BACKEND = !import.meta.env.VITE_FIREBASE_API_KEY
+const IS_MOCK_MAP = !GOOGLE_MAPS_API_KEY
+
+export { GOOGLE_MAPS_API_KEY, IS_MOCK_BACKEND, IS_MOCK_MAP }
