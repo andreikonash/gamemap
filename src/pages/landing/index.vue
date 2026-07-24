@@ -359,7 +359,7 @@ function goSignIn () {
 
         <RevealOnScroll
           :delay="250"
-          class="relative z-10 mx-auto -mt-8 w-full max-w-[1100px] px-margin-mobile"
+          class="relative z-10 mx-auto mt-lg w-full max-w-[1100px] px-margin-mobile"
         >
           <div class="glass-panel grid grid-cols-2 gap-md rounded-[1.75rem] p-lg shadow-lg md:grid-cols-4">
             <div
